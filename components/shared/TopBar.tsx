@@ -1,7 +1,7 @@
 import { OrganizationSwitcher, SignOutButton, SignedIn } from "@clerk/nextjs";
 import Image from "next/image";
 import Link from "next/link";
-import { dark, neobrutalism } from "@clerk/themes";
+import { dark } from "@clerk/themes";
 
 const TopBar = () => {
   return (
